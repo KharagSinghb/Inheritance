@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.Kharag","l":"Character"},{"p":"com.Kharag","l":"Hero"},{"p":"com.Kharag","l":"Inheritance"},{"p":"com.Kharag","l":"Power"},{"p":"com.Kharag","l":"Villain"}];updateSearchResults();
